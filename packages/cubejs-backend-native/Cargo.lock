@@ -492,7 +492,6 @@ dependencies = [
 [[package]]
 name = "datafusion"
 version = "5.1.0"
-source = "git+https://github.com/cube-js/arrow-datafusion.git?rev=c00c1c91c38671f69691b09386b9439f043ff132#c00c1c91c38671f69691b09386b9439f043ff132"
 dependencies = [
  "ahash",
  "arrow",
